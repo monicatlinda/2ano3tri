@@ -21,3 +21,8 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao
+    'Taylor Swift'
+    'quantos albuns a Taylor Swift tem?'
+    'A Taylor Swift tem 11 albúns'
