@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
+    'Mundo',
     'Quem é a cantora mais premiada do vma?',
     'A cantora mais premiada do vma é a Taylor Swift'
 )
