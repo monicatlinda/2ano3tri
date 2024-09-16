@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que significa "bug" em programação?',
+    'Um "bug" signigica erro no código.'
 )
 
 criaCartao(
