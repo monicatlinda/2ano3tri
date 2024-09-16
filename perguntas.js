@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quem é a cantora mais premiada do vma?',
+    'A cantora mais premiada do vma é a Taylor Swift'
 )
 
 criaCartao(
@@ -21,8 +21,3 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
-
-criaCartao
-    'Taylor Swift'
-    'quantos albuns a Taylor Swift tem?'
-    'A Taylor Swift tem 11 albúns'
