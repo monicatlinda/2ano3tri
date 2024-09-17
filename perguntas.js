@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Português',
-    'O que significa a palavra estotérica?',
-    'algo que é entendido apenas por poucas pessoas.'
+    'O que significa a palavra Beneplácito?',
+    'Beneplácito significa consentimento ou aprovação.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz praia em Inglês?',
-    'Praia em ingles é beach'
+    'Como se diz café da manhã em Inglês?',
+    'Café da manhã em ingles é breakfast'
 )
