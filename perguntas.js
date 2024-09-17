@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que significa "bug" em programação?',
-    'Um "bug" signigica erro no código.'
+    'Um "bug" significa erro no código.'
 )
 
 criaCartao(
